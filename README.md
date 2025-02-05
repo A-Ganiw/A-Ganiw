@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Ganiw
 - 👀 I’m interested in ..programming.
 - 🌱 I’m currently learning ..javascript.
-- 💞️ I’m looking to collaborate on ..understanding javasript.
+- 💞️ I’m looking to collaborate on ..joining a community .
 - 📫 How to reach me ...abdulganiw699@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
